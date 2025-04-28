@@ -9,4 +9,4 @@ export const eventbriteToken = import.meta.env.VITE_EVENTBRITE_TOKEN;
 export const eventbriteClientSecret = import.meta.env.VITE_EVENTBRITE_CLIENT_SECRET;
 export const eventbritePublicToken = import.meta.env.VITE_EVENTBRITE_PUBLIC_TOKEN;
 export const googleMapsApiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
-export const rapidApiKey = 'ca216c1575msh5615719b6340d0bp1fd9dcjsnf6c09fd2a2ee';
+export const rapidApiKey = import.meta.env.VITE_RAPIDAPI_KEY;
